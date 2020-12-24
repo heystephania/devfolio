@@ -1,15 +1,14 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://hard-fought-structu.000webhostapp.com/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Stephania Auguste',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Stephania Auguste | Data Analyst`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
+    description: `Hey there! I'm a data enthusiast who enjoys solving problems with Low Code tools, and finding ways to automate complex business processes. `,
+    
     // Optional: Github account URL
     github: `https://github.com/ryanfitzgerald`,
     // Optional: LinkedIn account URL
